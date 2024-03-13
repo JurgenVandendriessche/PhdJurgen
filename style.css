@@ -41,7 +41,14 @@ body
 	font-family: 'Roboto', 'Arial', 'sans-serif';
 }
 
-body > main {
+body > main
+{
     padding: 0 24px;
   max-width: 1170px;
-  margin: 0 auto;}
+  margin: 0 auto;
+}
+
+.abstract
+{
+    text-align: justify;
+}
